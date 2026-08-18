@@ -1,11 +1,8 @@
 # Dataset
 data/sales.csv
 
-# Trained models
-models/*.pkl
-
-# Generated outputs
-outputs/*.csv
+# Generated output files
+outputs/
 
 # Python
 __pycache__/
@@ -15,12 +12,5 @@ __pycache__/
 venv/
 .venv/
 
-# Streamlit
-.streamlit/
-
 # VS Code
 .vscode/
-
-# OS
-.DS_Store
-Thumbs.db
