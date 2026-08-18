@@ -2,7 +2,7 @@
 data/sales.csv
 
 # Generated output files
-outputs/
+outputs/*.csv
 
 # Python
 __pycache__/
